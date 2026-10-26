@@ -1,1 +1,0 @@
-# true-eula-genetics-lol

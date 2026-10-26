@@ -1,0 +1,12 @@
+Copyright (c) 2026 netuoso. All Rights Reserved.
+
+This mod is protected by copyright. All rights reserved by the author.
+
+PERMITTED:
+1. Use this mod in any modpacks, provided they are distributed for free.
+2. To study the mod’s decompiled code solely for informational or educational purposes, or to ensure compatibility with your own mods.
+
+STRICTLY PROHIBITED:
+1. Publishing forks (modified versions) of this mod on any platforms (including CurseForge, Modrinth, GitHub, etc.).
+2. Re-uploading the original .jar file to third-party software aggregator sites without the author’s consent (contact: Discord netuoso_)
+3. Using pieces of code, algorithms, or assets (textures, models) from this mod as part of other public mods.
